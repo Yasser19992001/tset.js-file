@@ -153,3 +153,8 @@ for (let num of numbersList) {
 console.log("Q13 Largest number:", largest);  
 console.log("Q13 Smallest number:", smallest); 
 console.log("----------------------------------");
+
+
+let to =19;
+
+
